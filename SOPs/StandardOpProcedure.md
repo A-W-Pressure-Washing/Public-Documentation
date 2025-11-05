@@ -1,8 +1,7 @@
 # A&W Pressure Washing and Cleaning
 ## Standard Operating Procedure
-**Pressure Washing Business – Residential & Commercial Cleaning**
+Pressure Washing Business – Residential & Commercial Cleaning
 
----
 
 ## **📋 1. CLIENT INTAKE & QUOTING**
 
@@ -236,14 +235,3 @@ Keep backups of critical components like O-rings, quick connects, and spare nozz
 | Video Editing          | Klap.app / CapCut      |
 | Photo Storage          | Google Drive / Dropbox |
 | Customer Communication | Google Voice / SMSBump |
-
----
-
-## 🔗 For More Help with SOPs & Automation
-
-Check out [**AI Copy Club**](https://www.aicopyclub.com) — great tools and workflows for automating your business.
-
----
-
-Let me know if you want a downloadable version (PDF, Word, Notion), a template for Jobber, or a separate SOP just for *commercial clients*, *seasonal prep*, or *holiday cleanup*.
-
