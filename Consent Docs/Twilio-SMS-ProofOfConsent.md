@@ -9,10 +9,6 @@
 
 ---
 
-**Date Prepared:** November 05, 2025
-
----
-
 ## Purpose of SMS Communication
 
 This document certifies that customers of **A & W Pressure Washing and Cleaning** have provided **express consent** to receive automated text messages (SMS) from our business through our communications provider, **Twilio**, for the following purposes:
@@ -81,3 +77,9 @@ Attach one or more of the following to reinforce compliance if Twilio requests s
 
 ### 📍 Our Headquarters
 <img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/684d4158-4bfb-4a08-8cef-e7b3526cc263" />
+
+
+
+
+
+**Effective Date:** November 05, 2025
