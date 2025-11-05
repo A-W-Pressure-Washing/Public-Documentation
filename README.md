@@ -3,18 +3,27 @@
 </p>
 
 # A&W Pressure Washing
-## 📁 Business Legal Docs & SOPs
+## 📁 Business Legal Docs & SOPs 🔒
 
 Welcome to the centralized documentation hub for all essential business legal documents, consents, and standard operating procedures (SOPs). This repository is structured for easy navigation and quick access to important files across three main categories.
 
 ---
 
 ## 📑 Folder Structure & Contents
+## __Business Only__ 🔒
+### 📂 SOPs and Guides 🔒
+> Internal documents guiding daily operations and ensuring service consistency.
 
+- **Standard Operating Procedure** 
+  Step-by-step processes for operational excellence in pressure washing services.
+
+---
+
+## __Public__ 🔓
 ### 📂 Consents and Contracts
 > Documents related to client consents and business agreements.
 
-- **SMS Proof of Consent**  
+- **SMS Proof of Consent**
   Confirmation and logs of customer opt-in for SMS communication, compliant with TCPA and other regulatory standards.
 
 ---
@@ -22,22 +31,14 @@ Welcome to the centralized documentation hub for all essential business legal do
 ### 📂 Terms and Policies
 > All public-facing policies and legal terms applicable to your services and communication methods.
 
-- **Privacy Policy**  
+- **Privacy Policy** 🔓
   General privacy practices regarding data collection, usage, and storage.
   
-- **SMS Privacy Policy**  
+- **SMS Privacy Policy** 🔓 
   Specific privacy disclosures for SMS and mobile communication.
 
-- **Terms and Conditions**  
+- **Terms and Conditions** 🔓  
   Legal terms governing service use, liabilities, and disclaimers.
-
----
-
-### 📂 SOPs and Guides
-> Internal documents guiding daily operations and ensuring service consistency.
-
-- **Standard Operating Procedure**  
-  Step-by-step processes for operational excellence in pressure washing services.
 
 ---
 
@@ -49,6 +50,6 @@ Welcome to the centralized documentation hub for all essential business legal do
 ---
 
 **📄 License**  
-This repository is for internal business use. Redistribution or unauthorized use of these documents is not permitted without consent.
+Some documentation has been labeled private and is not available for viewing to the general public as it  is for internal business use only. Redistribution or unauthorized use of any any documentation belonging to A&W Pressure Washing and Cleaning is not permitted without sole consent from **A&W Pressure Washing and Cleaning** or the CEO.
 
 ---
