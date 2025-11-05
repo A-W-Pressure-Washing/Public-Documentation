@@ -60,8 +60,11 @@ Twilio’s service is used solely for legitimate business purposes related to se
 ## Authorized Signatory
 
 **Signed by:** ___________________________  
+
 **Name:** Carl Wayne Surles III
+
 **Title:** Owner / Operator  
+
 **Date:** ___________________________  
 
 ---
@@ -75,6 +78,7 @@ Twilio’s service is used solely for legitimate business purposes related to se
 
 
 **Effective Date:** November 05, 2025
+
 
 
 
