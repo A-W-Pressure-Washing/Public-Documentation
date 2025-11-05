@@ -9,7 +9,6 @@ Welcome to the centralized documentation hub for all essential business legal do
 
 ---
 
-## 📑 Folder Structure & Contents
 ## __Public__ 🔓
 ### 📂 Consents and Contracts
 > Documents related to client consents and business agreements.
@@ -48,7 +47,8 @@ Welcome to the centralized documentation hub for all essential business legal do
 
 ---
 
-**📄 License**  
+> [!NOTE]  
+> **📄 License** -  
 Some documentation has been labeled private and is not available for viewing to the general public as it  is for internal business use only. Redistribution or unauthorized use of any any documentation belonging to A&W Pressure Washing and Cleaning is not permitted without sole consent from **A&W Pressure Washing and Cleaning** or the CEO.
 
 ---
