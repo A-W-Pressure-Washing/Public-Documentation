@@ -26,8 +26,6 @@ Welcome to the centralized documentation hub for all essential business legal do
 - **SMS Proof of Consent**
   Confirmation and logs of customer opt-in for SMS communication, compliant with TCPA and other regulatory standards.
 
----
-
 ### 📂 Terms and Policies
 > All public-facing policies and legal terms applicable to your services and communication methods.
 
