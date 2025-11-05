@@ -7,7 +7,9 @@
 
 Welcome to the centralized documentation hub for all essential business legal documents, consents, and standard operating procedures (SOPs). This repository is structured for easy navigation and quick access to important files across three main categories.
 
+
 ---
+
 
 ## __Public__ 🔓
 ### 📂 Consents and Contracts
@@ -28,7 +30,9 @@ Welcome to the centralized documentation hub for all essential business legal do
 - **Terms and Conditions** 🔓  
   Legal terms governing service use, liabilities, and disclaimers.
 
+
   ---
+
   
 ## __Business Only__ 🔒
 ### 📂 SOPs and Guides 🔒
@@ -37,7 +41,9 @@ Welcome to the centralized documentation hub for all essential business legal do
 - **Standard Operating Procedure** 
   Step-by-step processes for operational excellence in pressure washing services.
 
+
 ---
+
 
 
 ## 📌 Notes
@@ -45,7 +51,9 @@ Welcome to the centralized documentation hub for all essential business legal do
 - For legal updates, please consult your legal advisor before modifying any template.
 - For operational improvements, submit suggestions via pull request or open an issue.
 
+
 ---
+
 
 > [!NOTE]  
 > **📄 License** -  
