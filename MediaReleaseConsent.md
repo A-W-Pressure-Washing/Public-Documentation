@@ -1,6 +1,5 @@
 # A&W Pressure Washing and Cleaning  
 **Photo, Video, and Audio Release Form**  
-**Page 1 of 3**
 
 ---
 
@@ -106,10 +105,6 @@ I represent and warrant that:
 **Email:** ___________________________  
 **Date:** ___________________________  
 **Signature:** ___________________________  
-
----
-
-# Page 2 of 3 — Photo, Video, and Audio Release
 
 ---
 
