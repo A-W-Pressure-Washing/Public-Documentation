@@ -1,4 +1,5 @@
 # Proof of Consent – SMS Notifications
+---
 
 
 **Business Name:** A&W Pressure Washing and Cleaning
@@ -75,6 +76,7 @@ Twilio’s service is used solely for legitimate business purposes related to se
 
 
 **Effective Date:** November 05, 2025
+
 
 
 
