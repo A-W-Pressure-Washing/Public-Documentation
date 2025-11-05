@@ -67,18 +67,6 @@ Twilio’s service is used solely for legitimate business purposes related to se
 
 ---
 
-## Appendix – Example Proof Artifacts
-
-Attach one or more of the following to reinforce compliance if Twilio requests supporting evidence:
-
-- Screenshot of your web form showing SMS consent text  
-- Screenshot of Twilio message logs showing appointment reminder examples  
-- Copy of Privacy Policy or Terms of Service containing SMS consent language  
-- Sample customer form submission record showing consent captured
-
-
-
-
 
 ### 📍 Our Headquarters
 <img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/684d4158-4bfb-4a08-8cef-e7b3526cc263" />
@@ -88,6 +76,7 @@ Attach one or more of the following to reinforce compliance if Twilio requests s
 
 
 **Effective Date:** November 05, 2025
+
 
 
 
