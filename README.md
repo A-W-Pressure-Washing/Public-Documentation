@@ -10,15 +10,6 @@ Welcome to the centralized documentation hub for all essential business legal do
 ---
 
 ## 📑 Folder Structure & Contents
-## __Business Only__ 🔒
-### 📂 SOPs and Guides 🔒
-> Internal documents guiding daily operations and ensuring service consistency.
-
-- **Standard Operating Procedure** 
-  Step-by-step processes for operational excellence in pressure washing services.
-
----
-
 ## __Public__ 🔓
 ### 📂 Consents and Contracts
 > Documents related to client consents and business agreements.
@@ -38,7 +29,17 @@ Welcome to the centralized documentation hub for all essential business legal do
 - **Terms and Conditions** 🔓  
   Legal terms governing service use, liabilities, and disclaimers.
 
+  ---
+  
+## __Business Only__ 🔒
+### 📂 SOPs and Guides 🔒
+> Internal documents guiding daily operations and ensuring service consistency.
+
+- **Standard Operating Procedure** 
+  Step-by-step processes for operational excellence in pressure washing services.
+
 ---
+
 
 ## 📌 Notes
 - All documents are kept up-to-date and version-controlled.
