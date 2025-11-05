@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/android-chrome-512x512.png" alt="A&W Pressure Washing Logo" width="120" height="120" />
+</p>
+
 # A&W Pressure Washing
 ## 📁 Business Legal Docs & SOPs
 
