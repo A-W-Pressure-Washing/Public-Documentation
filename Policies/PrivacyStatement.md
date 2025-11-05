@@ -1,6 +1,5 @@
 # A & W Pressure Washing & Cleaning
 ## Privacy Policy
----
 
 *Last updated: **November 5, 2025***
 *Applies to: **awpressurewashing.pages.dev** and any related sites, forms, and communications operated by A & W Pressure Washing & Cleaning (“A&W,” “we,” “us,” “our”).*
