@@ -60,7 +60,7 @@ Twilio’s service is used solely for legitimate business purposes related to se
 ## Authorized Signatory
 
 **Signed by:** ___________________________  
-**Name:** Wayne Surles  
+**Name:** Carl Wayne Surles III
 **Title:** Owner / Operator  
 **Date:** ___________________________  
 
@@ -74,4 +74,5 @@ Attach one or more of the following to reinforce compliance if Twilio requests s
 - Screenshot of Twilio message logs showing appointment reminder examples  
 - Copy of Privacy Policy or Terms of Service containing SMS consent language  
 - Sample customer form submission record showing consent captured
+
 
