@@ -1,4 +1,5 @@
-# SMS Privacy Policy of A & W Pressure Washing & Cleaning
+#A&W Pressure Washing & Cleaning
+## SMS Privacy Policy
 _Last Updated: November 1, 2025_
 
 ---
