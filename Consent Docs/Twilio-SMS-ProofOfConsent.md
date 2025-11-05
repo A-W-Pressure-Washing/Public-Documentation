@@ -3,9 +3,9 @@
 ---
 
 **Business Name:** A & W Pressure Washing and Cleaning  
-**Business Owner:** Wayne Surles  
+**Business Owner:**Carl Wayne Surles III
 **Business Contact:** (931)259-7963 | estimate.awpressurewashing@gmail.com  
-**Business Address:** 185 Duggin Road McMinnville, TN 37110    
+**Business Address:** [185 Duggin Road McMinnville, TN 37110](https://maps.app.goo.gl/4Nw7WHmdC4fjpLZ87)
 
 ---
 
@@ -74,5 +74,6 @@ Attach one or more of the following to reinforce compliance if Twilio requests s
 - Screenshot of Twilio message logs showing appointment reminder examples  
 - Copy of Privacy Policy or Terms of Service containing SMS consent language  
 - Sample customer form submission record showing consent captured
+
 
 
