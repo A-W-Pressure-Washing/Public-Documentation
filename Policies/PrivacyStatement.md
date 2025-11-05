@@ -20,8 +20,7 @@ We may update this Policy to reflect changes in our business or laws. If changes
 **Business:** A & W Pressure Washing & Cleaning
 **Mailing Address:** *185 Duggin Rd, McMinnville, TN 37110 (USA)*
 **Email:** *[privacy@awpressurewashing.com](mailto:privacy@awpressurewashing.com)* (replace if different)
-**Phone:** *(###) ###-####* (replace if different)
-
+**Phone:** *(931) 259-7963*
 For privacy requests (access, deletion, correction, opt-out, etc.), see **Section 10**.
 
 ---
@@ -239,7 +238,7 @@ We will not discriminate against you for exercising your rights.
 
 **Email:** **[privacy@awpressurewashing.com](mailto:privacy@awpressurewashing.com)**
 **Mail:** *A & W Pressure Washing & Cleaning, 185 Duggin Rd, McMinnville, TN 37110*
-**Phone:** *(###) ###-####*
+**Phone:** *(931) 259-7963*
 
 ---
 
