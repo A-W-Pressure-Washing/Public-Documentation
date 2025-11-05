@@ -1,10 +1,6 @@
-Got it — you're running a **Pressure Washing business** that serves both **residential and commercial clients**, and your services include a wide variety of cleaning tasks, from driveways and patios to trash compactors and shopping cart sanitization.
-
-Below is a **detailed, step-by-step SOP (Standard Operating Procedure)** for your business operations. This SOP is broken down into the following core sections:
-
----
-
-### **🧼 SOP: Pressure Washing Business – Residential & Commercial Cleaning**
+# A&W Pressure Washing and Cleaning
+## Standard Operating Procedure
+**Pressure Washing Business – Residential & Commercial Cleaning**
 
 ---
 
@@ -250,3 +246,4 @@ Check out [**AI Copy Club**](https://www.aicopyclub.com) — great tools and wor
 ---
 
 Let me know if you want a downloadable version (PDF, Word, Notion), a template for Jobber, or a separate SOP just for *commercial clients*, *seasonal prep*, or *holiday cleanup*.
+
