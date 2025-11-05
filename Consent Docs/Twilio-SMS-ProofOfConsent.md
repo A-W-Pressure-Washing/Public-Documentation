@@ -67,7 +67,7 @@ Twilio’s service is used solely for legitimate business purposes related to se
 ---
 
 
-### 📍 Our Headquarters
+### 📍 Our Middle Tennessee Headquarters
 <img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/684d4158-4bfb-4a08-8cef-e7b3526cc263" />
 
 
@@ -75,6 +75,7 @@ Twilio’s service is used solely for legitimate business purposes related to se
 
 
 **Effective Date:** November 05, 2025
+
 
 
 
