@@ -7,7 +7,7 @@ _Last Updated: November 1, 2025_
 We at **A & W Pressure Washing & Cleaning** (“A&W,” “we,” “us,” “our”) believe in protecting the security and confidentiality of your personal information.  
 This **SMS Privacy Policy** (“Policy”) explains how we collect, use, maintain, and disclose your personal information in connection with your participation in our **SMS messaging service** (“Service”), which is operated through a third-party provider.
 
-This Policy applies only to information obtained in connection with the SMS Service and supplements our [Primary Privacy Policy](https://awpressurewashing.pages.dev/privacy-policy) and [Terms of Use](https://awpressurewashing.pages.dev/terms).  
+This Policy applies only to information obtained in connection with the SMS Service and supplements our [Primary Privacy Policy](https://awpressurewash.com/legal/privacy-policy) and [Terms of Use](https://awpressurewash.com/legal/term).  
 By opting into or using our SMS Service, you agree to be bound by this Policy.
 
 ---
@@ -129,8 +129,8 @@ If you believe a child has subscribed to our Service, contact us immediately and
 
 ## 12. Relationship to Other Policies
 This Policy works in conjunction with our:
-- [Terms & Conditions](https://awpressurewashing.pages.dev/terms)  
-- [Primary Privacy Policy](https://awpressurewashing.pages.dev/privacy-policy)
+- [Terms & Conditions](https://awpressurewash.com/legal/terms)  
+- [Primary Privacy Policy](https://awpressurewash.com/legal/privacy-policy)
 
 By using our SMS Service, you agree to those documents as well.
 
@@ -139,13 +139,15 @@ By using our SMS Service, you agree to those documents as well.
 ## 13. Contact Information
 If you have questions about this Policy or your personal information, contact us:
 
-**A & W Pressure Washing & Cleaning**  
+**A&W Pressure Washing & Cleaning**  
 📍 185 Duggin Rd, McMinnville, TN 37110  
-📞 **(931) 414-3279**  
-📧 **estimate.awpressurewashing@gmail.com**
+📞 **(931) 414-3279**
+🌐 **AWPressureWash.com/legal**
+📧 **legal@awpressurewash.com**
 
 ---
 
 *Disclaimer:*  
 This document is provided for informational purposes only and does not constitute legal advice. Laws vary by jurisdiction, and you should consult an attorney licensed in your state to ensure compliance with applicable federal and state privacy regulations (e.g., TCPA, CCPA, GDPR).
+
 
