@@ -116,7 +116,7 @@ Only the signed release form constitutes the binding agreement.
 
 Customers may contact us at any time for clarification regarding how their media is collected, used, or stored.
 
-**__A&W Pressure Washing & Cleaning__**
+**A&W Pressure Washing & Cleaning**
 📍 *************, McMinnville, TN 37110
 📞 **(931) 414-3279**
 🌐 **AWPressureWash.com/legal**
