@@ -118,11 +118,8 @@ Customers may contact us at any time for clarification regarding how their media
 
 **__A&W Pressure Washing & Cleaning__**  
 📍 *************, McMinnville, TN 37110 
-
-📞 **(931) 414-3279**
-
-🌐 **AWPressureWash.com/legal**
-
+📞 **(931) 414-3279** 
+🌐 **AWPressureWash.com/legal** 
 📧 **legal@awpressurewash.com**
 
 ---
