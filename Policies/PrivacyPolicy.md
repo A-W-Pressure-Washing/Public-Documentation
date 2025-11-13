@@ -1,4 +1,4 @@
-# A & W Pressure Washing & Cleaning
+# A&W Pressure Washing & Cleaning
 ## Privacy Policy
 
 *Last updated: **November 5, 2025***
@@ -254,3 +254,4 @@ We may send service emails/SMS (estimate confirmations, appointment reminders, c
 ---
 
 > *If you require this policy in another format (large print or accessible PDF), contact us and we’ll provide it.*
+
