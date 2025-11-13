@@ -1,4 +1,4 @@
-# A & W Pressure Washing & Cleaning
+# A&W Pressure Washing & Cleaning
 ##  Terms & Conditions
 
 *Last updated: **November 5, 2025***
@@ -265,3 +265,4 @@ Email/Phone: ____________________
 ---
 
 *This document is provided for operational clarity. We are not your attorneys, and this is not legal advice. For special compliance requirements (e.g., municipal discharge permits, HOA restrictions), consult counsel.*
+
