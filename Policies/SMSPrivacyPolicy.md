@@ -1,4 +1,4 @@
-#A&W Pressure Washing & Cleaning
+# A&W Pressure Washing & Cleaning
 ## SMS Privacy Policy
 _Last Updated: November 1, 2025_
 
@@ -148,3 +148,4 @@ If you have questions about this Policy or your personal information, contact us
 
 *Disclaimer:*  
 This document is provided for informational purposes only and does not constitute legal advice. Laws vary by jurisdiction, and you should consult an attorney licensed in your state to ensure compliance with applicable federal and state privacy regulations (e.g., TCPA, CCPA, GDPR).
+
