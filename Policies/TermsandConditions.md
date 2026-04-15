@@ -1,8 +1,8 @@
 # A&W Pressure Washing & Cleaning
 ##  Terms & Conditions
 
-*Last updated: **November 5, 2025***
-*Applies to: **awpressurewashing.pages.dev** and all quotes, invoices, work orders, and services provided by **A & W Pressure Washing & Cleaning** (“A&W,” “we,” “us,” “our”).*
+*Last updated: **April 15, 2025***
+*Applies to: **awpressurewash.com** and all quotes, invoices, work orders, and services provided by **A & W Pressure Washing & Cleaning** (“A&W,” “we,” “us,” “our”).*
 
 > **Quick summary (not a substitute for the full terms):** You authorize us to clean specified surfaces using industry-standard methods. You agree to prepare the site (move items, close windows, etc.), provide safe access, and pay as agreed. We warrant workmanship, not the natural limitations of aged/oxidized or previously damaged materials. Some risks are inherent (e.g., water intrusion, plant stress). Please read all sections before approving service.
 
