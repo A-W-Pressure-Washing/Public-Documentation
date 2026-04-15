@@ -20,7 +20,7 @@ We may update this Policy to reflect changes in our business or laws. If changes
 
 **Business:** A & W Pressure Washing & Cleaning
 **Mailing Address:** *185 Duggin Rd, McMinnville, TN 37110 (USA)*
-**Email:** *[info@awpressurewash.com](mailto: info@awpressurewash.com)* (replace if different)
+**Email:** *[info@awpressurewash.com](mailto:info@awpressurewash.com)* (replace if different)
 **Phone:** *(931) 259-7963*
 For privacy requests (access, deletion, correction, opt-out, etc.), see **Section 10**.
 
@@ -151,7 +151,7 @@ You can request:
 * **Correction:** fix inaccurate or incomplete data.
 * **Deletion:** remove data we no longer need (subject to legal retention).
 
-Submit requests via **[privacy@awpressurewashing.com](mailto:privacy@awpressurewashing.com)** or mail. We will verify your identity and respond as required by applicable laws.
+Submit requests via **[info@awpressurewash.com](mailto:info@awpressurewash.com)** or mail. We will verify your identity and respond as required by applicable laws.
 
 ### 10.3 State-Specific Rights (U.S.)
 
@@ -228,8 +228,8 @@ We will not discriminate against you for exercising your rights.
 
 ## 19) Your Choices (Quick Links)
 
-* **Update/Correct Info:** email **[privacy@awpressurewashing.com](mailto:privacy@awpressurewashing.com)**
-* **Access/Export/Delete:** email **[privacy@awpressurewashing.com](mailto:privacy@awpressurewashing.com)**
+* **Update/Correct Info:** email **[info@awpressurewash.com](mailto:info@awpressurewash.com)**
+* **Access/Export/Delete:** email **[info@awpressurewash.com](mailto:info@awpressurewash.com)**
 * **Marketing opt-out:** unsubscribe link in emails; reply **STOP** to SMS
 * **Cookies:** manage in your browser
 
