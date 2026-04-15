@@ -1,7 +1,7 @@
 # A&W Pressure Washing & Cleaning
 ## Privacy Policy
 
-*Last updated: **November 5, 2025***
+*Last updated: **April 15, 2026***
 *Applies to: **AWPressureWash.com** and any related sites, apps, forms, and communications operated by A & W Pressure Washing & Cleaning (“A&W,” “we,” “us,” “our”).*
 
 > **Short version:** We collect only what we need to provide quotes, schedule services, take payments, and communicate with you. We never sell your personal information.
