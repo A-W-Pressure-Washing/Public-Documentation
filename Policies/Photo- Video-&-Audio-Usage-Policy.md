@@ -1,6 +1,6 @@
 # **A&W Pressure Washing and Cleaning**
 
-## **Photo, Video & Audio Usage Policy (Read-Only Version)**
+## **Photo, Video & Audio Usage Policy**
 
 This policy explains how **A&W Pressure Washing and Cleaning** (“we,” “our,” or “the Company”) uses photographs, video recordings, and audio recordings captured during the course of providing services. This is a **non-contractual, informational version** of our official release. Customers sign a separate consent document before any media is used.
 
@@ -119,7 +119,7 @@ Only the signed release form constitutes the binding agreement.
 **A&W Pressure Washing & Cleaning**  
 📍 McMinnville, TN 37110  
 📞 **(931) 414-3279**  
-🌐 **AWPressureWash.com/policies**  
+🌐 **AWPressureWash.com/legal**  
 📧 **info@awpressurewash.com**
 
 
