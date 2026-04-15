@@ -20,7 +20,7 @@ We may update this Policy to reflect changes in our business or laws. If changes
 
 **Business:** A & W Pressure Washing & Cleaning
 **Mailing Address:** *185 Duggin Rd, McMinnville, TN 37110 (USA)*
-**Email:** *[info@awpressurewash.com](mailto:info@awpressurewash.com)* (replace if different)
+**Email:** *[info@awpressurewash.com](mailto:info@awpressurewash.com)*
 **Phone:** *(931) 259-7963*
 For privacy requests (access, deletion, correction, opt-out, etc.), see **Section 10**.
 
@@ -200,7 +200,7 @@ We may update this Policy to reflect changes in services or legal requirements. 
 
 ## 17) U.S. State Notices (Summary)
 
-**California (CCPA/CPRA):** You have rights to know/access, correct, delete, and limit certain uses. We **do not sell** or **share** PI (including of consumers under 16). Sensitive PI is used only for permitted purposes (e.g., payment processing, limited anti-fraud). You can exercise rights via **[privacy@awpressurewashing.com](mailto:privacy@awpressurewashing.com)**.
+**California (CCPA/CPRA):** You have rights to know/access, correct, delete, and limit certain uses. We **do not sell** or **share** PI (including of consumers under 16). Sensitive PI is used only for permitted purposes (e.g., payment processing, limited anti-fraud). You can exercise rights via **[info@awpressurewash.com](mailto:info@awpressurewash.com)**.
 
 **Virginia/Colorado/Connecticut/Utah:** Similar rights regarding access, correction, deletion, portability, and certain opt-outs. We do not process PI for targeted advertising in a way that requires opt-out under these laws.
 
